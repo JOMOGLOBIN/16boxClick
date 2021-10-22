@@ -1,0 +1,29 @@
+* {
+  background-color: rgb(209, 209, 209);
+}
+
+p {
+  font-size: 35px;
+  text-align: center;
+}
+
+.boxes {
+  width: 300px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 50px auto 50px auto;
+}
+
+.box {
+  height: 50px;
+  width: 50px;
+  background-color: rgb(32, 32, 32);
+  margin: 10px;
+}
+
+.lightBox {
+  height: 50px;
+  width: 50px;
+  background-color: rgb(119, 119, 119);
+  margin: 10px;
+}
